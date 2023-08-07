@@ -1,0 +1,16 @@
+.text {
+    color: #081F37;
+}
+
+h1 {
+    background-color: #204B78;
+}
+
+h3 {
+    background-color: #204B78;
+    color: antiquewhite;
+}
+
+h1 + h3 {
+    color: #B15A6E;
+}
